@@ -17,6 +17,7 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=mohamedkharma&show_icons=true&count_private=true&theme=outrun&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=giannagalard&layout=compact&hide_border=true&theme=outrun&bg_color=00000000&langs_count=6&hide=c%23,shaderlab">
 </p>
 
-<!-- website linked to gif -->
+<!-- website linked to gif
 <p align = "center" >
 <a href="https://mohamedkharma.com/" target="_blank" rel="noreferrer"><img alt="Portfolio" style="max-width: 100px;" src="https://user-images.githubusercontent.com/80483712/126887600-e4e61085-2430-4bb2-8b82-2b3154673bd1.gif" /></a></p>
+ -->
