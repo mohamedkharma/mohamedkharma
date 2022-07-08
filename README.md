@@ -1,8 +1,8 @@
 <!-- introduction -->
-<h1 align="center">𝙷𝚒 𝚃𝚑𝚎𝚛𝚎! <img src="https://tenor.com/view/anime-gif-19179867.gif" width="30px"></h1>
+<h1 align="center">𝙷𝚒 𝚃𝚑𝚎𝚛𝚎! <img src="https://tenor.com/view/when-you-wave-to-people-gif-22314635.gif" width="30px"></h1>
 <!-- gif  -->
 <p align = "center">
-<img src ="https://tenor.com/view/anime-gif-19179867">
+<img src ="https://tenor.com/view/anime-gif-19179867.gif">
 </p>
 <!-- about me  -->
 <h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 <img src="https://31.media.tumblr.com/76470f55efbc8cc7ec81778d18febc91/tumblr_mwn4rvyG4O1t2jjpjo1_500.gif" width="50"></h1>
