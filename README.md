@@ -2,7 +2,7 @@
 <h1 align="center">𝙷𝚒 𝚃𝚑𝚎𝚛𝚎! <img src="https://media.tenor.com/images/4d512c104adc84aeb76257fe8c232989/tenor.gif" width="30px"></h1>
 <!-- gif  -->
 <p align = "center">
-<img src ="[https://user-images.githubusercontent.com/80483712/126827900-4340dd5e-f3b0-4be5-a26d-582f18f7ce7e.gif](https://tenor.com/view/anime-gif-19179867)">
+<img src ="https://tenor.com/view/anime-gif-19179867">
 </p>
 <!-- about me  -->
 <h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 <img src="https://31.media.tumblr.com/76470f55efbc8cc7ec81778d18febc91/tumblr_mwn4rvyG4O1t2jjpjo1_500.gif" width="50"></h1>
