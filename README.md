@@ -19,4 +19,4 @@
 
 <!-- website linked to gif -->
 <p align = "center" >
-<a href="https://mohamedkharma.com/" target="_blank" rel="noreferrer"><img alt="Portfolio" style="max-width: 100px;" src="blob:https://tenor.com/0de484bc-9ab2-4974-9d20-a0a82ff8f373.gif" /></a></p>
+<a href="https://mohamedkharma.com/" target="_blank" rel="noreferrer"><img alt="Portfolio" style="max-width: 100px;" src="https://user-images.githubusercontent.com/80483712/126887600-e4e61085-2430-4bb2-8b82-2b3154673bd1.gif" /></a></p>
