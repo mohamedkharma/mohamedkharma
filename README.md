@@ -1,5 +1,5 @@
 <!-- introduction -->
-<h1 align="center">𝙷𝚒 𝚃𝚑𝚎𝚛𝚎! <img src="https://tenor.com/view/when-you-wave-to-people-gif-22314635.gif" width="30px" height="100px"></h1>
+<h1 align="center">𝙷𝚒 𝚃𝚑𝚎𝚛𝚎! <img src="https://tenor.com/view/when-you-wave-to-people-gif-22314635.gif" height="100px"></h1>
 <!-- gif  -->
 <p align = "center">
 <img src ="https://tenor.com/view/anime-gif-19179867.gif">
